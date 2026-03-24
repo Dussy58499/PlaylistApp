@@ -1,0 +1,28 @@
+{
+  "name": "playlistapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test" : "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dussy58499/PlaylistApp.git"
+  },
+  "keywords": [],
+  "author": "Oleksandr ivankiv",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dussy58499/PlaylistApp/issues"
+  },
+  "homepage": "https://github.com/Dussy58499/PlaylistApp#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1"
+  }
+}
